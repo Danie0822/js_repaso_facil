@@ -23,6 +23,4 @@
           favoritosList.innerHTML += cardHtml;
         });
       }
-  
-      // Llamar a la función para mostrar los favoritos al cargar la página
       mostrarFavoritos();
